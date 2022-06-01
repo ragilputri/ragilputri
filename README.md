@@ -11,7 +11,7 @@
 
 ##### Education:
 
-1. SMK [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software engineering) | Purwokerto `2019-2022`
+1. [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software engineering) | Purwokerto `2019-2022`
 
 ##### Achivement:
 
