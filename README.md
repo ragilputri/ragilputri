@@ -28,11 +28,11 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Json](https://img.shields.io/badge/-json-000000?style=flat&logo=json)
+![Json](https://img.shields.io/badge/-json-000000?style=flat&logo=Json)
 ![SQL](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
-![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=C#)
 
 ##### Some of the technologies I have worked with
 
