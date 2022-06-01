@@ -32,7 +32,7 @@
 ![SQL](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=csharp)
+![C#](https://img.shields.io/badge/-Csharp-000000?style=flat&logo=Csharp)
 
 ##### Some of the technologies I have worked with
 
