@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ragil Putri ! </h2>
 
-<!--
+
 **ragilputri/ragilputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: ragilputrirahmadani03@gmail.com
 - ⚡ Fun fact: I have high curiosity
--->
+
 😄 <b>My Name Ragil Putri Rahmadani</b> <br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ragilputri&show_icons=true)<br/>
