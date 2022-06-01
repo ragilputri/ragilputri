@@ -22,7 +22,7 @@
 ##### Work Experience:
 
 1. [Cyber Olympus Website](http://www.cyberolympus.com/) | Laravel programmers | Yogyakarta `Dec 2020 - Mar 2021`
-   - create a [website eventlagi.com](https://eventlagi.com/) using the laravel framework
+   - create a website [eventlagi.com](https://eventlagi.com/) using the laravel framework
 
 ##### Languages I use
 
@@ -40,5 +40,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Xampp](https://img.shields.io/badge/-Xampp-000000?style=flat&logo=Xampp)
+
+##### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ragil-putri-rahmadani-925943206/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ragil-putri-rahmadani-925943206/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
 <img src="https://komarev.com/ghpvc/?username=ragilputri&color=blue&style=flat-square" align="left" />
