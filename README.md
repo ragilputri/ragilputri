@@ -43,8 +43,8 @@
 
 ##### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ragil-putri-rahmadani-925943206/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ragil-putri-rahmadani-925943206/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
