@@ -11,7 +11,13 @@
 
 ##### Education:
 
-1. SMK [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL | Purwokerto `2019-2022`
+1. SMK [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software engineering) | Purwokerto `2019-2022`
+
+##### Achivement:
+
+1. Juara 1 LKS IT Software For Business tingkat Kabupaten Banyumas `2022`
+2. Juara 1 LKS IT Software For Business tingkat Provinsi Jawa Tengah `2022`
+3. Salah satu penulis buku [Rumpun Aksara](https://ebooks.gramedia.com/books/rumpun-aksara) dan [Project Friendz](https://ebooks.gramedia.com/books/project-friendz)
 
 ##### Work Experience:
 
