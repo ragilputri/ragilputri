@@ -1,9 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ragil Putri ! </h2>
 
-
-**ragilputri/ragilputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##About Me :
 
 - 🔭 I’m currently working on developing the app
 - 🌱 I’m currently learning mobile programming with kotlin
