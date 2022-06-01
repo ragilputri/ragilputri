@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ragil Putri ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="10px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Ragil Putri ! </h2>
 
 <!--
 **ragilputri/ragilputri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
