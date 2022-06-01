@@ -28,10 +28,11 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Json](https://img.shields.io/badge/-json-000000?style=flat&logo=json)
 ![SQL](https://img.shields.io/badge/-Mysql-000000?style=flat&logo=Mysql)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=Kotlin)
+![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=csharp)
 
 ##### Some of the technologies I have worked with
 
@@ -40,12 +41,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Xampp](https://img.shields.io/badge/-Xampp-000000?style=flat&logo=Xampp)
-
-##### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 
 <img src="https://komarev.com/ghpvc/?username=ragilputri&color=blue&style=flat-square" align="left" />
