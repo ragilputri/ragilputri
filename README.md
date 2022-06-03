@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing the app
 - 🌱 I’m currently learning mobile programming with kotlin
-- 👯 I’m looking to collaborate on mobile programmers
+- 👯 I’m looking to collaborate on mobile programmers, web programmers, or desktop programmers
 - 💬 Ask me about anything
 - 📫 How to reach me: ragilputrirahmadani03@gmail.com
 - ⚡ Fun fact: I have high curiosity
