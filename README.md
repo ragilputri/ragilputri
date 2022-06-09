@@ -3,7 +3,7 @@
 ##### About Me :
 
 - 🔭 I’m currently working on developing the app
-- 🌱 I’m currently learning mobile programming with kotlin
+- 🌱 I’m currently learning web programming with Go Fiber
 - 👯 I’m looking to collaborate on mobile programmers, web programmers, or desktop programmers
 - 💬 Ask me about anything
 - 📫 How to reach me: ragilputrirahmadani03@gmail.com
