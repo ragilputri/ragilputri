@@ -23,6 +23,9 @@
 
 1. [Cyber Olympus Website](http://www.cyberolympus.com/) | Laravel programmers | Yogyakarta `Dec 2020 - Mar 2021`
    - create a website [eventlagi.com](https://eventlagi.com/) using the laravel framework
+2. [PT Cakra Radha Mustika (Kalbe Group)] | Backend Golang | Jakarta `Mei 2022 - Mei 2023`
+
+
 
 ##### Languages I use
 
